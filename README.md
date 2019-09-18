@@ -40,7 +40,7 @@ Dₘ is the value of the partial derivative with respect to m. Similarly lets fi
 
 ##### Mean Squared Error:
 
-<img src="content/mean_squared_error.png" alt="mean squared error" width="300px" height="100px">
+<img src="content/mean_squared_error.png" alt="mean squared error" width="300px" height="70px">
 
 ##### Root Mean Squared Error:
 
