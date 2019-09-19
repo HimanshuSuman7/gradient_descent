@@ -38,17 +38,17 @@ Dₘ is the value of the partial derivative with respect to m. Similarly lets fi
 
 ### Calculations
 
-##### Mean Squared Error:
+#### Mean Squared Error:
 In statistics, the mean squared error or mean squared deviation of an estimator measures the average of the squares of the errors—that is, the average squared difference between the estimated values and the actual value. MSE is a risk function, corresponding to the expected value of the squared error loss.
 
 <img src="content/mean_squared_error.png" alt="mean squared error" width="250px" height="70px">
 
-##### Root Mean Squared Error:
+#### Root Mean Squared Error:
 The root-mean-square deviation or root-mean-square error is a frequently used measure of the differences between values predicted by a model or an estimator and the values observed.
 
 <img src="content/rmse.png" alt="root mean squared error">
 
-##### R2 Score:
+#### R2 Score:
 R-squared is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination, or the coefficient of multiple determination for multiple regression. 0% indicates that the model explains none of the variability of the response data around its mean.
 
 <img src="content/r2_score.png" alt="R2 Score">
