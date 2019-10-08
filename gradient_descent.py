@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # Importing the dataset
-dataset = pd.read_csv("dataset\\linear_dataset.csv", sep=',', header=None)
+dataset = pd.read_csv("content\\linear_dataset.csv", sep=',', header=None)
 X = dataset.iloc[:, 0]
 Y = dataset.iloc[:, 1]
 
