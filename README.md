@@ -4,3 +4,5 @@ Gradient Descent is a very generic optimization algorithm capable of finding opt
 
 Example of Gradient Descent:
 ![Example](content/gradient_descent_gif.gif)
+
+This repo contains implementation of both gradient_descent and stochastic_gradient_descent.
